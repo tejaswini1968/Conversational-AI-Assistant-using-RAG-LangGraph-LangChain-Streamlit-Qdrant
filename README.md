@@ -159,10 +159,6 @@ Papeer includes an automated RAG evaluation pipeline (`evaluate.py`) built on [D
 
 ### Running Evaluation
 
-```bash
-uv run python evaluate.py
-```
-
 - On first run, synthetic golden test cases are generated from `documents/Openclaw_Research_Report.pdf` and cached to `goldens.json`
 - Results are written to `eval_results.json` with per-test metric scores, pass/fail status, and failure reasons
 - Subsequent runs reuse cached goldens unless `goldens.json` is deleted
