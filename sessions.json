@@ -1,0 +1,50 @@
+{
+  "11ddd083-17a9-4ec5-ad2f-d122606812f5": {
+    "id": "11ddd083-17a9-4ec5-ad2f-d122606812f5",
+    "name": "Open Ended Research Chat",
+    "created_at": "2026-09-22T14:34:06.995224",
+    "is_named": true
+  },
+  "a4f0189f-75f0-43cd-96ad-64d08219d4c1": {
+    "id": "a4f0189f-75f0-43cd-96ad-64d08219d4c1",
+    "name": "New Session",
+    "created_at": "2026-09-22T14:39:59.162432",
+    "is_named": false
+  },
+  "fac2eb4c-f45f-40c5-bd30-9d1069724849": {
+    "id": "fac2eb4c-f45f-40c5-bd30-9d1069724849",
+    "name": "motlt bot GitHub stars",
+    "created_at": "2026-09-22T16:09:24.203063",
+    "is_named": true
+  },
+  "8a8c8ab2-c037-48da-b220-8ffe6d121021": {
+    "id": "8a8c8ab2-c037-48da-b220-8ffe6d121021",
+    "name": "System Requirements Per Report",
+    "created_at": "2026-09-22T16:27:57.366564",
+    "is_named": true
+  },
+  "e29101a3-13a4-47d2-8048-8e7a9fdebbd7": {
+    "id": "e29101a3-13a4-47d2-8048-8e7a9fdebbd7",
+    "name": "Attention Score Scaling",
+    "created_at": "2026-09-22T16:31:57.505590",
+    "is_named": true
+  },
+  "abc4cbdb-8851-43dd-a97c-3bcfdf49a618": {
+    "id": "abc4cbdb-8851-43dd-a97c-3bcfdf49a618",
+    "name": "MRL Paper Overview",
+    "created_at": "2026-09-22T16:57:34.613901",
+    "is_named": true
+  },
+  "d28f7dea-28ee-49f2-9d84-f7a6e9d95708": {
+    "id": "d28f7dea-28ee-49f2-9d84-f7a6e9d95708",
+    "name": "Nested Embedding Per Page",
+    "created_at": "2026-09-22T17:03:05.431880",
+    "is_named": true
+  },
+  "1bf3c4bc-27b3-4ed8-952b-d6ae8ce71cd9": {
+    "id": "1bf3c4bc-27b3-4ed8-952b-d6ae8ce71cd9",
+    "name": "Warring Parties in Iran 2026",
+    "created_at": "2026-09-22T17:07:13.879341",
+    "is_named": true
+  }
+}
