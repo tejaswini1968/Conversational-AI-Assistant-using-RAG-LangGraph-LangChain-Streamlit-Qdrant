@@ -61,39 +61,6 @@ Prefix any message with `/btw` to ask a question outside the current paper conte
 /btw What is the difference between RLHF and DPO?
 ```
 
----
-
-## Installation
-
-Papeer uses [uv](https://github.com/astral-sh/uv) for dependency management.
-
-```bash
-# Clone the repository
-git clone <repo-url>
-cd rag-papeer-project
-
-# Install all dependencies
-uv sync
-
-# Copy the example env file and fill in your keys
-cp .env.example .env
-
-# Run the Streamlit app
-uv run streamlit run app.py
-```
-
-To add a new dependency:
-```bash
-uv add <package-name>
-```
-
-To run a backend module directly (useful during development):
-```bash
-uv run python -m backend.<module_name>
-```
-
----
-
 ## Required API Keys
 
 All keys are loaded from a `.env` file in the project root via `python-dotenv`.
